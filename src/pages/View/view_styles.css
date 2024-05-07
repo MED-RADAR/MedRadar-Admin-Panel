@@ -1,0 +1,24 @@
+/* styles.css */
+.table-container {
+  max-width: 800px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #101830; /* Light blue color */
+}
+
+.cell {
+  padding: 16px;
+  border-bottom: 1px solid #e0e0e0;
+  text-align: left;
+}
+
+.head-cell {
+  background-color: #333;
+  color: #fff;
+  font-weight: bold;
+}
